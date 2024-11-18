@@ -1,0 +1,22 @@
+
+
+{
+    "posts": [
+        {
+            "id": 103,
+            "category": "Python",
+            "image": "https://i.ibb.co.com/Ms7G87t/python.png",
+            "isActive": true,
+            "title": "Data Science with Python: From Zero to Hero",
+            "author": {
+                "name": "Bob Smith"
+            },
+            "description": "Transform your career by learning data science using Python and its powerful libraries.",
+            "comment_count": 450,
+            "view_count": 1879,
+            "posted_time": 6
+        }
+        
+    ],
+    "message": "successfully fetched the posts"
+}

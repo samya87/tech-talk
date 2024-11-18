@@ -1,0 +1,35 @@
+
+
+{
+    "posts": [
+        {
+            "id": 101,
+            "category": "Web",
+            "image": "https://i.ibb.co.com/mXVRh73/web1.png",
+            "isActive": true,
+            "title": "Building Responsive Websites",
+            "author": {
+                "name": "John Doe"
+            },
+            "description": "Learn how to create stunning and responsive websites from scratch using HTML and CSS.",
+            "comment_count": 560,
+            "view_count": 1568,
+            "posted_time": 5
+        },
+        {
+            "id": 104,
+            "category": "Web",
+            "image": "https://i.ibb.co.com/tshqDG4/web2.png",
+            "isActive": true,
+            "title": "Introduction to React: Building Dynamic UIs",
+            "author": {
+                "name": "Emily White"
+            },
+            "description": "Get started with React and learn how to build dynamic user interfaces for web applications.",
+            "comment_count": 780,
+            "view_count": 2650,
+            "posted_time": 10
+        }
+    ],
+    "message": "successfully fetched the posts"
+}

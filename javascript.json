@@ -1,0 +1,49 @@
+
+
+{
+    "posts": [
+        {
+            "id": 102,
+            "category": "JavaScript",
+            "image": "https://i.ibb.co.com/ydyQSzR/js1.png",
+            "isActive": false,
+            "title": "Mastering JavaScript: The Complete Guide",
+            "author": {
+                "name": "Alice Johnson"
+            },
+            "description": "Dive deep into JavaScript with this comprehensive guide covering ES6 and beyond.",
+            "comment_count": 320,
+            "view_count": 1325,
+            "posted_time": 8
+        },
+        {
+            "id": 105,
+            "category": "JavaScript",
+            "image": "https://i.ibb.co.com/1Q7bWkZ/js2.png",
+            "isActive": false,
+            "title": "Advanced JavaScript Techniques for Developers",
+            "author": {
+                "name": "David Brown"
+            },
+            "description": "Elevate your JavaScript skills with advanced techniques and best practices for developers.",
+            "comment_count": 620,
+            "view_count": 2015,
+            "posted_time": 7
+        },
+        {
+          "id": 106,
+          "category": "JavaScript",
+          "image": "https://i.ibb.co.com/gFrKhjH/js3.png",
+          "isActive": false,
+          "title": "Advanced JavaScript Techniques for Developers",
+          "author": {
+              "name": "David Brown"
+          },
+          "description": "Elevate your JavaScript skills with advanced techniques and best practices for developers.",
+          "comment_count": 420,
+          "view_count": 1015,
+          "posted_time": 7
+      }
+    ],
+    "message": "successfully fetched the posts"
+}

@@ -1,0 +1,91 @@
+
+
+  {
+    "posts": [
+        {
+            "id": 101,
+            "category": "Web",
+            "image": "https://i.ibb.co.com/mXVRh73/web1.png",
+            "isActive": true,
+            "title": "Building Responsive Websites",
+            "author": {
+                "name": "John Doe"
+            },
+            "description": "Learn how to create stunning and responsive websites from scratch using HTML and CSS.",
+            "comment_count": 560,
+            "view_count": 1568,
+            "posted_time": 5
+        },
+        {
+            "id": 102,
+            "category": "JavaScript",
+            "image": "https://i.ibb.co.com/ydyQSzR/js1.png",
+            "isActive": false,
+            "title": "Mastering JavaScript: The Complete Guide",
+            "author": {
+                "name": "Alice Johnson"
+            },
+            "description": "Dive deep into JavaScript with this comprehensive guide covering ES6 and beyond.",
+            "comment_count": 320,
+            "view_count": 1325,
+            "posted_time": 8
+        },
+        {
+            "id": 103,
+            "category": "Python",
+            "image": "https://i.ibb.co.com/Ms7G87t/python.png",
+            "isActive": true,
+            "title": "Data Science with Python: From Zero to Hero",
+            "author": {
+                "name": "Bob Smith"
+            },
+            "description": "Transform your career by learning data science using Python and its powerful libraries.",
+            "comment_count": 450,
+            "view_count": 1879,
+            "posted_time": 6
+        },
+        {
+            "id": 104,
+            "category": "Web",
+            "image": "https://i.ibb.co.com/tshqDG4/web2.png",
+            "isActive": true,
+            "title": "Introduction to React: Building Dynamic UIs",
+            "author": {
+                "name": "Emily White"
+            },
+            "description": "Get started with React and learn how to build dynamic user interfaces for web applications.",
+            "comment_count": 780,
+            "view_count": 2650,
+            "posted_time": 10
+        },
+        {
+            "id": 105,
+            "category": "JavaScript",
+            "image": "https://i.ibb.co.com/1Q7bWkZ/js2.png",
+            "isActive": false,
+            "title": "Advanced JavaScript Techniques for Developers",
+            "author": {
+                "name": "David Brown"
+            },
+            "description": "Elevate your JavaScript skills with advanced techniques and best practices for developers.",
+            "comment_count": 620,
+            "view_count": 2015,
+            "posted_time": 7
+        },
+        {
+          "id": 106,
+          "category": "JavaScript",
+          "image": "https://i.ibb.co.com/gFrKhjH/js3.png",
+          "isActive": false,
+          "title": "Advanced JavaScript Techniques for Developers",
+          "author": {
+              "name": "David Brown"
+          },
+          "description": "Elevate your JavaScript skills with advanced techniques and best practices for developers.",
+          "comment_count": 420,
+          "view_count": 1015,
+          "posted_time": 7
+      }
+    ],
+    "message": "successfully fetched the posts"
+}
